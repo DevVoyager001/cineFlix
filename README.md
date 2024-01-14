@@ -1,6 +1,6 @@
-# CineFlix - Movie Streaming App
+# CineFlix - Movie Exploring App
 
-CineFlix is a React and Vite-powered movie streaming app. Explore movies, add them to your cart, and enjoy a seamless user experience.
+CineFlix is a React and Vite-powered movie Exploring app. Explore movies, add them to your cart, and enjoy a seamless user experience.
 
 ## Features
 
@@ -32,4 +32,7 @@ step1 - Start the development server:
 npm run dev
 
 get to your local hoat and thats it
+
+
+Netlify Link- https://cineflixbyakshay.netlify.app/
 
