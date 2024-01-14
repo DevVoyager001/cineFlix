@@ -31,7 +31,6 @@ Running the App
 step1 - Start the development server:
 npm run dev
 
-get to your local host and thats it
 
 
 Netlify Link- https://cineflixbyakshay.netlify.app/
