@@ -1,8 +1,35 @@
-# React + Vite
+# CineFlix - Movie Streaming App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CineFlix is a React and Vite-powered movie streaming app. Explore movies, add them to your cart, and enjoy a seamless user experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Browse and add movies to your cart.
+- View detailed information about each movie.
+
+## Getting Started
+
+**Prerequisites:** Node.js and npm installed.
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/DevVoyager001/cineFlix.git
+
+
+
+Step1 - Navigate to the project directory:
+cd cineFlix
+
+Step2 - Install dependencies:
+npm install
+
+
+Running the App
+step1 - Start the development server:
+npm run dev
+
+get to your local hoat and thats it
+
